@@ -1,18 +1,5 @@
 // ## Problem 2: Design Hashmap (https://leetcode.com/problems/design-hashmap/)
 
-<<<<<<< HEAD
-// Time Complexity :
-// Space Complexity :
-// Did this code successfully run on Leetcode :
-// Any problem you faced while coding this :
-
-// Implementing hashing for the base implementation Collision handling is done using linear chaining
-
-// Your code here along with comments explaining your approach
- class MyHashMap {
-
- }
-=======
 // Time Complexity : O(1) on average, (worst case O(n) if all keys collide in the same bucket)
 // Space Complexity : O(n) for storing all key-value pairs
 // Did this code successfully run on Leetcode : Yes
@@ -120,4 +107,3 @@ class MyHashMap {
  * int param_2 = obj.get(key);
  * obj.remove(key);
  */
->>>>>>> c565bd4 (Implemented queue using two stacks and designed HashMap)
